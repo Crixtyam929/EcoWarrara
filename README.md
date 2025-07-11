@@ -59,6 +59,7 @@ This is a visual concept. It does not include dynamic functionality or backend i
   Multimedia Production Technologist – SENA  
   Multimedia Design and Integration Technician – SENA
   [https://www.linkedin.com/in/miguel-escobar-477a90288/](https://www.linkedin.com/in/miguel-escobar-477a90288/)
+  
 ---
 
 ## 🧾 License
