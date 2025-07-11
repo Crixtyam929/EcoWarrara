@@ -58,7 +58,6 @@ This is a visual concept. It does not include dynamic functionality or backend i
 - **Miguel Ángel Escobar Ocampo**  
   Multimedia Production Technologist – SENA  
   Multimedia Design and Integration Technician – SENA
-  [www.linkedin.com/in/cristian-andres-agudelo-henao929](https://www.linkedin.com/in/cristian-andres-agudelo-henao929)
   [https://www.linkedin.com/in/miguel-escobar-477a90288/](https://www.linkedin.com/in/miguel-escobar-477a90288/)
 ---
 
